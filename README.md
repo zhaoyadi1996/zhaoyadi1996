@@ -11,3 +11,7 @@ Here are some ideas to get you started:
 
 ### Open Source Projects
 [![Flutter Github](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyadi1996&repo=flutter_github)](https://github.com/zhaoyadi1996/flutter_github)
+
+### Github Stats
+
+[![Felix's Github Stats](https://github-readme-stats.vercel.app/api?username=zhaoyadi1996&count_private=true&theme=default&show_icons=true)](https://github.com/zhaoyadi1996)
